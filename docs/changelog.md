@@ -3,6 +3,7 @@
 ### Fixes
 
 - Remove `any` in command line options.
+- XML: Handle empty nodes containing fields correctly. (#121)
 
 ## v0.6.3
 
